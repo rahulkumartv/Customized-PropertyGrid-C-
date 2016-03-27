@@ -5,6 +5,6 @@ property grid class which is more flexible to handle data such as combo list and
 #Steps##
 1. create  PropertyGridEx by passing  original PropertyGrid contorl 
 2. create each property using PropertySpec and add those property spec in PropertyGridEx Collections
-also you can set PropertySpec
-. as ExpandableCollections for expand and collapse
+also you can set PropertySpec  
+. as ExpandableCollections for expand and collapse  
 . as combo list  
